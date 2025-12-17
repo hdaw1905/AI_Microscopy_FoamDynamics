@@ -18,7 +18,7 @@ interpretable machine learning.
 - Visual dashboards and GIFs
 
 ## How to Run
-1. Open the notebook in Google Colab
+1. Open the notebook (AI_Microscopy_FoamDynamics.ipynb) in Google Colab
 2. Allow Google Drive access when prompted
 3. Run all cells (Runtime → Run all)
 
