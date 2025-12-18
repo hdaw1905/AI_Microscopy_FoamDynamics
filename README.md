@@ -161,3 +161,9 @@ Importantly, the entire analysis is **image-driven and chemistry-agnostic**, rel
 
 More broadly, this workflow is reusable for other **cellular and porous systems**, enabling early prediction of stability and failure from microscopic dynamics alone.
 
+## 📚 Reference
+
+Benali, B., & Foyen, T. (2022). *Pore-scale Bubble Population Dynamics of CO₂-Foam at Reservoir Pressure, Dataset and Segmented Images*. **Mendeley Data**, Version 1. https://doi.org/10.17632/5d37nbzf9s.1  
+Dataset link: https://data.mendeley.com/datasets/5d37nbzf9s/1
+
+
