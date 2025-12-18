@@ -1,28 +1,35 @@
-# Image-Driven Foam Stability Analysis from Microscopy
+# Image-Driven Analysis of Bubble Dynamics and Foam Stability
 
-This repository contains the code and analysis for the Microscopy Hackathon 2025
-(AISCIA Informatics use case).
+**Microscopy Hackathon 2025 – AISCIA Informatics**
 
-## Overview
-We present a fully image-driven workflow that links microscopic bubble dynamics
-observed in time-resolved microscopy images to macroscopic foam stability.
-All features are extracted directly from segmented images and analyzed using
-interpretable machine learning.
+This repository contains the final submission notebook for an image-driven,
+explainable machine learning analysis of bubble dynamics and foam stability
+using time-resolved microscopy images.
 
-## Contents
-- Full-resolution microscopy image processing
+## 📌 How to Run (Judges)
+
+1. Download the dataset from:
+   https://drive.google.com/drive/folders/1O1y_lesCDsoj3T3hb9_en9Q1v9cR2eQ-?usp=sharing
+
+2. Unzip the dataset and upload the folder  
+   `AI_Microscopy_FoamDynamics`  
+   to your Google Drive **My Drive**.
+
+3. Open the notebook in Google Colab:
+   `notebooks/AI_Microscopy_FoamDynamics.ipynb`
+
+4. Run the notebook **from top to bottom**.
+
+No code modification is required.
+
+## 📊 Method Summary
+
+- Binary segmentation of microscopy images
 - Bubble geometry and spatial feature extraction
-- Temporal dynamics (coarsening, entropy, packing)
-- Image-derived foam stability proxies
-- Explainable machine learning analysis
-- Visual dashboards and GIFs
+- Time-series analysis of coarsening and collapse
+- Image-derived foam stability proxy
+- Explainable regression modeling
 
-## How to Run
-1. Open the notebook (AI_Microscopy_FoamDynamics.ipynb) in Google Colab
-2. Allow Google Drive access when prompted
-3. Run all cells (Runtime → Run all)
-
-## Author
+## 👤 Author
 Hesham Eina Abdalla  
-GitHub: https://github.com/hdaw1905  
-LinkedIn: https://www.linkedin.com/in/hesham-eina/
+Electrical Engineer | AI & Microscopy
